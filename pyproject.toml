@@ -5,7 +5,7 @@ description = "Simple ICS file manipulation tool"
 authors = ["Michal Przytulski <michal@przytulski.pl>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.6"
 click = "^7.0"
 ics = "^0.7"
 requests = "^2.23.0"
